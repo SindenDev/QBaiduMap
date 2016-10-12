@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>API_BaiduMap.html</file>
+        <file>simplelog.txt</file>
+        <file>thinker.gpsr</file>
+    </qresource>
+</RCC>
